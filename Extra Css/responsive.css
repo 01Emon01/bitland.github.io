@@ -1,0 +1,249 @@
+@media  only screen and (max-width: 1400px) {
+
+    /* Navbar */
+    
+    .txt-utilities{
+        margin-right: 10px;
+        width: 120px;
+    }
+    .txt-utilities h4{
+        font-size: 19px;
+    }
+    /* Exchanger */
+
+    .send-txt{
+        left: 18%;
+    }
+    .receive-txt{
+        left: 51%;
+    }
+    .left-logo_ex{
+        margin-left: 20px;
+    }
+    .ex-opt-wrapper{
+        display: flex;
+        justify-content: space-between;
+    }
+    .main-exchanger{
+        width: 502px;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-left: 1px;
+    }
+    .left-opt_exch select{
+        width: 245px;
+    }
+    .right-opt_exch select{
+        width: 245px;
+    }
+    .right-opt_exch input{
+        width: 245px;
+    }
+    .right-opt_exch{
+        width: 100%;
+    }
+    .right-logo-ex{
+        margin-right: 20px;
+    }
+    .left-ex-info{
+        margin-left: 140px;
+    }
+    .right-ex-info{
+        margin-left: 85px;
+    }
+    
+    /* Pending Transections */
+
+    .trs_box{
+        width: 360px;
+    }
+}
+
+@media only screen and (max-width: 1200px){
+
+    /* Navbar */
+
+    .txt-utilities{
+        margin-right: 0px;
+        width: 120px;
+    }
+    .txt-utilities h4{
+        font-size: 17px;
+    }
+
+    /* Exchanger */
+    .send-txt{
+        left: 18.5%;
+    }
+    .receive-txt{
+        left: 50.8%;
+    }
+    .left-logo_ex{
+        margin-left: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .img_bk{
+        height: 65px;
+        width: 65px;
+    }
+    .main-exchanger{
+        width: 413px;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding-left: 1px;
+    }
+    .left-opt_exch select{
+        width: 200px;
+    }
+    .right-opt_exch select{
+        width: 200px;
+    }
+    .right-opt_exch input{
+        width: 200px;
+    }
+    .right-logo-ex{
+        margin-right: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .img-pm{
+        height: 65px;
+        width: 65px;
+    }
+    .left-ex-info{
+        margin-left: 121px;
+    }
+    .right-ex-info{
+        margin-left: 40px;
+    }
+
+    /* Pending Transections */
+
+    .trs_box{
+        width: 300px;
+    }
+    .top-txt-pdt{
+        font-size: 14px;
+    }
+    .down-txt-pdt{
+        font-size: 11px;
+    }
+}
+
+@media only screen and (max-width: 992px){
+
+    /* Top Info */
+
+    .top-info{
+        padding: 10px 0px;
+        height: unset;
+    }
+    .logo-site{
+        height: 50px;
+        width: 50px;
+    }
+    .top-txt-logo{
+        height: unset;
+    }
+    .top-txt-logo h3{
+        font-size: 20px;
+    }
+    .bott-txt-logo{
+        font-size: 13px;
+    }
+    .email-img{
+        font-size: 30px;
+    }
+    .cont-img{
+        font-size: 30px;
+        margin-right: 10px;
+    }
+    .btn-start{
+        margin-right: 10px;
+    }
+    .gs-btn{
+        padding: 5px 0;
+        font-size: 14px;
+        height: 35px;
+        width: 100px;
+    }
+    .email_us{
+        margin-right: 15px;
+    }
+    .cont-info{
+        margin-right: 15px;
+    }
+
+
+    /* Navbar */
+
+    .txt-opt{
+        display: none;
+    }
+    .src-opt{
+        width: 180px;
+    }
+
+    /* Exchanger */
+
+    .send-txt{
+        left: 17%;
+    }
+    .receive-txt{
+        left: 51%;
+    }
+    .exchanger-main{
+        width: 90%;
+    }
+    .left-logo_ex{
+        margin-left: 10px;
+    }
+    .left-opt_exch select{
+        font-size: 14px;
+    }
+    .right-opt_exch select{
+        font-size: 14px;
+    }
+    .right-opt_exch input{
+        font-size: 14px;
+    }
+    .right-logo-ex{
+        margin-right: 10px;
+    }
+    .left-ex-info{
+        margin-left: 107px;
+    }
+    .right-ex-info{
+        margin-left: 40px;
+    }
+
+    /* Pending Transections */
+
+    .res_opt_pt{
+        display: none;
+    }
+    .trs_box{
+        width: 340px;
+    }
+    .top-txt-pdt{
+        font-size: 15px;
+    }
+    .down-txt-pdt{
+        font-size: 13px;
+    }
+
+    /* Comment Slider */
+
+    .slides{
+        width: 150%;
+    }
+
+    /* Footer */
+
+    .response_opt{
+        margin-top: 15px;
+    }
+}
